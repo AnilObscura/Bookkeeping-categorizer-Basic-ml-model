@@ -204,7 +204,7 @@ Here is a visual walkthrough of the application.
 
 The web interface allows users to enter any accounting transaction. After clicking **Classify**, the trained Machine Learning model instantly predicts the appropriate accounting category and stores the prediction in the MySQL database.
 
-![Web Interface](assets/ui-input.png)
+![Web Interface](https://github.com/AnilObscura/Bookkeeping-categorizer-Basic-ml-model/blob/2efaaeee4776026e3616262f2cbb6f1d095138c1/s1.png)
 
 ---
 
@@ -212,7 +212,7 @@ The web interface allows users to enter any accounting transaction. After clicki
 
 Every classified transaction is automatically stored in MySQL. The application fetches and displays the complete prediction history, making auditing, verification, and record management simple.
 
-![MySQL Database](assets/mysql-workbench.png)
+![MySQL Database](https://github.com/AnilObscura/Bookkeeping-categorizer-Basic-ml-model/blob/2efaaeee4776026e3616262f2cbb6f1d095138c1/s2.png)
 
 
 ## 📄 License
