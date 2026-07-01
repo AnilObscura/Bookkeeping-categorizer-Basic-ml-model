@@ -204,9 +204,7 @@ Here is a visual walkthrough of the application.
 
 The web interface allows users to enter any accounting transaction. After clicking **Classify**, the trained Machine Learning model instantly predicts the appropriate accounting category and stores the prediction in the MySQL database.
 
-```text
-assets/ui-input.png
-```
+![Web Interface](assets/ui-input.png)
 
 ---
 
@@ -214,9 +212,7 @@ assets/ui-input.png
 
 Every classified transaction is automatically stored in MySQL. The application fetches and displays the complete prediction history, making auditing, verification, and record management simple.
 
-```text
-assets/mysql-workbench.png
-```
+![MySQL Database](assets/mysql-workbench.png)
 
 
 ## 📄 License
